@@ -1,5 +1,8 @@
 # CFX-Bypass
 
+** Note that it's only made for educational purposes.  ** 
+
+
 **For the people who are having problems.**  
 
 Most likely not going to personally help you but you can ask other users about it here.
