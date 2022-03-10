@@ -1,6 +1,6 @@
 # CFX-Bypass
 
-** Note that it's only made for educational purposes.  ** 
+**Note that it's only made for educational purposes.** 
 
 
 **For the people who are having problems.**  
