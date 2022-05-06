@@ -22,4 +22,4 @@ Program blocks the outbounding and inbounding calls from adhesive so they won't 
 
 **Current status?**
 
-Seems to be working 14.1.2022
+Still working 6.5.2022
